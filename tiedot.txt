@@ -1,15 +1,14 @@
-Emo/TH18
-Rölli
-Setä
-Ebinjuho
-Vcrom3 (varalla)
+Pohjola/TH18
+Grogtag
+Vcrom3
 Hopo
 Valkonebarbaari
 Mr man
 Lapi
+Ikkunaukko
 +bll
 
-Pohjola 2/TH17-16
+Pohjola2/TH17-16
 tHt
 Jepi
 Kalleeee
@@ -27,35 +26,37 @@ Flygon
 VRantiss
 Tytttiiss
 chopo
-Vc (varalla)
+Vc
 Mrking
 
-Glade/TH15
+Gladeyator/TH15
+Valtsu
+Jyrki
 Madara
 Vizitys
 Hypra 64
 Gorak
 Clash-pelaaja
-Sárnaza (hopo)
-Jarijakkara (vara)
+Sárnaza
+LionelPepsi
 Jagelin
 Vili
 Bensku
 Masiina
 Jamppajyrki
 Redbull777
-Einari
 Ville
 Wipuli
-Kaarlo71 (vara)
-ZessU (vara)
+Kaarlo71
+ZessU
 
-Pohjola 3/TH14-12
+Pohjola3/TH14-12
+Kokko
 Rölli 3
 Setä
 cxrxnq
 H1
-LionelElpepsi
+Jarijakkara
 ok
 Joel
 Jage
@@ -66,11 +67,11 @@ Tattis
 Varajeesus
 Finbex
 EliaS
-Oddoz (varalla)
+Oddoz
 Eerokar
 Juperginaali
 
-Pohjola 4/TH11-0
+PohjolaCW/TH11-0
 EliaS
 Tyylipuhdas
 Fhusiti 2
@@ -87,3 +88,8 @@ Oozcee
 Joel2
 JM IV
 RushingTheMaxTh
+
+OHJEET:
+JOS MUOKKAAT KLAANIEN NIMIÄ, ILMOITA
+ÄLÄ POISTA TYHJIÄ RIVEJÄ, ÄLÄ LISÄÄ TYHJIÄ RIVEJÄ
+Lähtökohtaisesti muokkaa vain noita pelaajien nimiä, eli korvaa vain nimi jollain muulla
